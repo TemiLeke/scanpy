@@ -373,7 +373,7 @@ def _scrublet_call_doublets(
         ``.obs['doublet_score']``
             Doublet scores for each observed transcriptome
 
-        ``.obs['predicted_doublets']``
+        ``.obs['predicted_doublet']``
             Boolean indicating predicted doublet status
 
         ``.uns['scrublet']['doublet_scores_sim']``
